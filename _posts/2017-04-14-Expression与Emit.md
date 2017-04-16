@@ -16,6 +16,7 @@ tags: 工具
 ### 边看代码边介绍,这里以AutoMapper代码为例
 
 ```csharp
+
 namespace AutoMapper
 {
 
@@ -186,6 +187,7 @@ namespace AutoMapper
 					parameter.ParameterType)).ToArray();
 		}
 }
+
 ```
 
 关于Expression的具体使用，见[Expression详细使用讲解](http://blog.csdn.net/zhuqinfeng/article/details/70168337).
