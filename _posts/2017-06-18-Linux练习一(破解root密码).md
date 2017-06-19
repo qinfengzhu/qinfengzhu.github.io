@@ -9,8 +9,8 @@ tag: Linux练习
 
 ### 设置中断点
 
-![UML图标定义](/images/Linux-01/start-01.png)
+![UML图标定义](/images/linux/Linux-01/start-01.png)
 
 ### 修改root密码
 
-![UML图标定义](/images/Linux-01/start-02.png)
+![UML图标定义](/images/linux/Linux-01/start-02.png)
